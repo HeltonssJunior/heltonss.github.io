@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #abd60f;
     font-size: 20px;
 }
 
@@ -68,7 +68,7 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #3818e9;
 }
 
 .contact-info ul li i,
@@ -79,7 +79,7 @@
 }
 
 .skills ul {
-    padding-top: 1.5rem;
+    padding-top: 1.5 rem;
 }
 .skills ul li p {
     padding: .4rem 0;
@@ -127,7 +127,7 @@
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .exp-desc,
